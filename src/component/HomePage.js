@@ -8,7 +8,7 @@ import './css/magnific-popup.css';
 import './css/nice-select.css';
 import './css/animate.min.css';
 import './css/owl.carousel.css';
-import './css/main.css';
+//import './css/main.css';
 
 import Header from './Header';
 import Banner from './Banner';
